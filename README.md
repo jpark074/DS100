@@ -9,9 +9,9 @@ Through a strong emphasis on data centric computing, quantitative critical think
 
 Project 1: Food Safety
 
-    Reading simple csv files
-    Working with data at different levels of granularity
-    Identifying the type of data collected, missing values, anomalies, etc.
+    *Reading simple csv files
+    *Working with data at different levels of granularity
+    *Identifying the type of data collected, missing values, anomalies, etc.
     Applying probability sampling techniques
     Exploring characteristics and distributions of individual variables
 
